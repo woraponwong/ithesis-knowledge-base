@@ -1,4 +1,4 @@
-#Knowledge Base for iThesis Community
+# Knowledge Base for iThesis Community
 
 [![Documentation Status](https://readthedocs.org/projects/ithesis-knowledge-base/badge/?version=latest)](https://ithesis-knowledge-base.readthedocs.io/en/latest/?badge=latest)
 
@@ -22,7 +22,7 @@ This install includes the Git version control system and Git Bash, the command-l
 
 ### Install Git client tools for Windows
 
-[!INCLUDE[Install Git client tools for Windows](~/guide/help-content/includes/proc-contribute-install-git-client-tools.md)]
+[Install Git client tools for Windows](~/guide/help-content/includes/proc-contribute-install-git-client-tools.md)
 
 
 ### Install Git client tools for Mac and Linux
