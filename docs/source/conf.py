@@ -36,13 +36,17 @@ templates_path = ['_templates']
 latex_engine = 'xelatex'
 latex_use_xindy = False
 latex_elements = {
+    # Point size option of the document class ('10pt', '11pt' or '12pt')
     # 'pointsize': '10pt',
+
+    # Paper size option of the document class ('a4paper' or 'letterpaper')
     'papersize': 'a4paper',
+
     'preamble': r'''
         \usepackage[UTF8]{ctex}
-        \usepackage{charter}
-        \usepackage[defaultsans]{lato}
-        \usepackage{inconsolata}
+        \setsansfont{Arial}
+        \setromanfont{Arial}
+        \setmonofont{DejaVu Sans Mono}
     ''',
 }
 
