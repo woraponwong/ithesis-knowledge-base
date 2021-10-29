@@ -42,15 +42,10 @@ latex_elements = {
     # Paper size option of the document class ('a4paper' or 'letterpaper')
     'papersize': 'a4paper',
 
-    'fontpkg': r'''
-        \setsansfont{Arial}
-        \setromanfont{Arial}
-        \setmonofont{DejaVu Sans Mono}
-    ''',
-
     'preamble': r'''
-        \usepackage[UTF8]{inputenc}
-    '''
+        \usepackage[UTF8]{ctex}
+        \usepackage[thai]{babel}
+    ''',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
