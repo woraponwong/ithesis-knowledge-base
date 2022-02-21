@@ -14,3 +14,14 @@ Contents
    introduction
    requirement
    configuration
+   webaddin
+   install
+   login
+   generate_template
+   setting_committee
+   styles
+   update
+   knowledge_base
+   profile_menu
+   review
+   feedback
