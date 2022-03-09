@@ -11,9 +11,6 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   introduction
-   requirement
-   configuration
    webaddin
    install
    login
@@ -25,3 +22,18 @@ Contents
    profile_menu
    review
    feedback
+   overview_bi
+   tunnel_bi
+   template_bi
+   display_bi
+   using_powerbi_service_bi
+   share_bi
+   install_bi
+   file_component_bi
+   visual_data_bi
+   dashboard_bi
+   using_system_super
+   analy_tool_super
+   dashboard_super
+   dremio_super
+   

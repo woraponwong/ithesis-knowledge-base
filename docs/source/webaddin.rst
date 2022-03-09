@@ -37,6 +37,7 @@ iThesis Web Add-in ต่างจาก iThesis Add-in (VSTO) อย่าง�
     .. figure:: /images/web04.png
         :width: 80%
         :align: center
+        :align: center
         :alt: image 04
 
         image 04
