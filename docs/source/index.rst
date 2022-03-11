@@ -1,6 +1,9 @@
 Welcome to iThesis's Documentation!
 ===================================
 
+# Knowledge Base for iThesis Community
+If you want to contrubute this document, go to Github and follow instruction in Readme.md
+
 .. note::
 
    This project is under active development.
@@ -9,8 +12,9 @@ Contents
 --------
 
 .. toctree::
+   :caption: iThesis Web Addin
    :maxdepth: 2
-
+ 
    webaddin
    install
    login
@@ -22,6 +26,11 @@ Contents
    profile_menu
    review
    feedback
+
+.. toctree::
+   :caption: Power BI
+   :maxdepth: 2
+
    overview_bi
    tunnel_bi
    template_bi
@@ -32,6 +41,11 @@ Contents
    file_component_bi
    visual_data_bi
    dashboard_bi
+
+.. toctree::
+   :caption: Thesis Analytic Dashboard
+   :maxdepth: 2
+
    using_system_super
    analy_tool_super
    dashboard_super
