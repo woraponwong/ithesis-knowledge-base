@@ -18,6 +18,8 @@ Generate Template
 
    .. figure:: /images/gen02.png
         :align: center
+        
+   ไม่สามารถทำการ Generate template บน Microsoft Word Online ได้
 
 การสร้างรูปเล่มวิทยานิพนธ์ Generate Template
 --------------------------------------
